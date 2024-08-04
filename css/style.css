@@ -1,0 +1,62 @@
+* {
+    font-family: "Lexend", sans-serif;
+    font-optical-sizing: auto;
+}  
+
+html {
+    scroll-behavior: smooth;
+}
+
+.header {
+    margin-top: 100px;
+}
+
+.justify {
+    text-align: justify;
+}
+
+.nav-box-shadow {
+    box-shadow: 0px -20px 40px rgb(4, 88, 255);
+}
+
+/* .p-header {
+    padding-top: 130px;
+} */
+
+.bg-header {
+    background-color: #efefef;
+    width: 100%;
+    padding-top: 120px;
+    padding-bottom: 60px;
+    margin-top: 0;
+}
+
+#services img {
+    height: 190px;
+    background-color: rgba(19, 143, 251, 0.168);
+}
+
+.p-promo {
+    padding-top: 40px;
+    padding-bottom: 60px;
+}
+
+.contact-hover:hover {
+    background-color: rgba(19, 143, 251, 0.168);
+}
+
+.footer {
+    height: 130px;
+}
+
+.nav-hover {
+    margin: 0 5px;
+}
+
+.nav-hover:hover {
+    background-color:  rgba(19, 143, 251, 0.308);
+    border-radius: 10px;
+    margin-right: 5px;
+    transition-duration: 0.2s;
+
+}
